@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883451976693",
+    "project_id": "pdf-box-94ef1",
+    "storage_bucket": "pdf-box-94ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883451976693:android:27e959b1a82982ebe2debc",
+        "android_client_info": {
+          "package_name": "com.sam_p.pdfbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883451976693-qtqu8cl3nc0t2br99l16j2iq2igbhhut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam_p.pdfbox",
+            "certificate_hash": "c377a0f01f89eea42086bd33267d8f4336a07e82"
+          }
+        },
+        {
+          "client_id": "883451976693-arq54t1a8edbnushplohv2fahjukb44i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Sm3i5Fq0WJ0w9s4B3trBC4CNoBQWX34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883451976693-arq54t1a8edbnushplohv2fahjukb44i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
